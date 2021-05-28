@@ -1,0 +1,8 @@
+setup.py
+paquetedepruebas.egg-info/PKG-INFO
+paquetedepruebas.egg-info/SOURCES.txt
+paquetedepruebas.egg-info/dependency_links.txt
+paquetedepruebas.egg-info/top_level.txt
+paquetes/__init__.py
+paquetes/operacionesbasicas/__init__.py
+paquetes/operacionesbasicas/opebasicas.py
